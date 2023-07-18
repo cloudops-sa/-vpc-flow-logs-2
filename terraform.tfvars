@@ -1,0 +1,6 @@
+vpc_flow_log_group_name = "aws-default-vpc-log"
+vpc_flow_log_group_name_prefix = "aws-ifx"
+vpc_id = "vpc-0f1b20714826d55bf"
+vpc_name = "Default"
+vpc_log_destination_type  = "cloud-watch-logs"
+vpc_traffic_type = "ALL"
